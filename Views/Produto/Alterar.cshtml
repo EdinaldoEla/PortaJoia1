@@ -1,0 +1,33 @@
+@model Produto
+
+@{
+    ViewData["Title"] = "Alterar Produtos do Porta Jóia";
+}
+
+
+<h2 class="row justify-content-md-center" id="h2-1">Alterar Produto</h2>
+<div class="row justify-content-md-center">
+    <form method="POST" asp-controller="Produto" asp-action="Alterar" class="col-md-4" onsubmit="return mensagem(this);" name="formulario">
+        <fieldset>
+            <div class="form-group">
+                <label asp-for="NomeProduto">Produto</label>
+                <input asp-for="NomeProduto" class="form-control" required/>
+            </div>
+            <div class="form-group">
+                <label asp-for="Unidade">Unidade</label>
+                <input asp-for="Unidade" class="form-control" required/>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantidade">Quantidade</label>
+                <input asp-for="Quantidade" class="form-control" required/>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrecoProduto">Preço</label>
+                <input asp-for="PrecoProduto" class="form-control" required/>
+            </div>
+        </fieldset>
+        
+        <input asp-for="IdProduto" type="hidden">
+        <input type="submit" value="Alterar" class="btn btn-primary"/>
+    </form>
+</div>

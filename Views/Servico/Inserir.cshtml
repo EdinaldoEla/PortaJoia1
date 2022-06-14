@@ -1,0 +1,25 @@
+@model Servico
+
+@{
+    ViewData["Title"] = "Cadastro de Serviços";
+}
+
+<h2 class="row justify-content-md-center" id="h2-1">Cadastro de Serviço</h2>
+<div class="row justify-content-md-center">
+    <form method="POST" asp-controller="Servico" asp-action="Inserir" class="col-md-4" onsubmit="return mensagem(this);" name="formulario">
+        <fieldset>
+            <div class="form-group">
+                <label asp-for="NomeServico">Servico</label>
+                <input asp-for="NomeServico" class="form-control" required/>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="PrecoServico">Preço</label>
+                <input asp-for="PrecoServico" class="form-control" required/>
+            </div>
+        </fieldset>
+        
+        <input type="submit" value="Cadastrar" class="btn btn-primary"/>
+    </form>
+</div>
+

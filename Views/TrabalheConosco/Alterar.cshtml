@@ -1,0 +1,44 @@
+@model TrabalheConosco
+
+@{
+    ViewData["Title"] = "Alterar dados de colaboradores para trabalhar no Porta Jóia";
+}
+
+<h2 class="row justify-content-md-center" id="h2-1">Alteração de Dados de Futuros Colaboradores</h2>
+
+
+h2 class="row justify-content-md-center" id="h2-1">Futuros Colaboradores - Alterar</h2>
+<div class="row justify-content-md-center">
+    <form method="POST" asp-controller="TrabalheConosco" asp-action="Alterar" 
+    class="col-md-4" onsubmit="return mensagem(this);" name="formulario">
+        <fieldset>
+            <div class="form-group">
+                <label asp-for="Nome">Nome</label>
+                <input asp-for="Nome" class="form-control" required/>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="DataNascimento">Data de Nasimento</label>
+                <input asp-for="DataNascimento" class="form-control" required/>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Telefone">Telefone</label>
+                <input asp-for="Telefone" class="form-control" required/>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email">Email</label>
+                <input asp-for="Email" class="form-control" required/>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Experiencia">Experiencia</label>
+                <input asp-for="Experiencia" class="form-control" required/>
+            </div>
+        </fieldset>
+        
+        <input asp-for="Id" type="hidden">
+        <input type="submit" value="Alterar" class="btn btn-primary"/>
+    </form>
+</div>

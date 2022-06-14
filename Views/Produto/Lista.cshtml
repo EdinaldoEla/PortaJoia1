@@ -1,0 +1,40 @@
+@model List<Produto>
+
+@{
+    ViewData["Title"] = "Listagem de Produtos Porta Jóia";
+}
+
+<h2 class="row justify-content-md-center" id="h2-1">Lista de Protudos Cadastrados</h2>
+<!--<table class="table table-success table-striped-columns">-->
+<table class="table table-striped"> 
+    <thead>
+        <tr>
+            <th>CÓDIGO</th>
+            <th>PRODUTO</th>
+            <th>UNIDADE</th>
+            <th>ESTOQUE</th>
+            <th>PPREÇO</th>
+            <th>OPERAÇÕES</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (Produto p in Model)
+        {
+            <tr>
+                <td>@p.IdProduto</td>
+                <td>@p.NomeProduto</td>
+                <td>@p.Unidade</td>
+                <td>@p.Quantidade</td>
+                <td>@p.PrecoProduto</td>
+                <td>
+                    <a href="/Produto/Alterar?Id=@p.IdProduto">Alterar</a>
+
+                    <a href="/Produto/Excluir?Id=@p.IdProduto">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br>

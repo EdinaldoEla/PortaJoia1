@@ -1,0 +1,42 @@
+@model List<TrabalheConosco>
+
+@{
+    ViewData["Title"] = "Listagem de Futuros Colaboradores para o Porta Jóia";
+}
+
+<h2 class="row justify-content-md-center" id="h2-1">Futuros Colaboradores</h2>
+
+<table class="table table-striped"> 
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Nome</th>
+            <th>Nascimento</th>
+            <th>Telefone</th>
+            <th>Email</th>
+            <th>Experiência</th>
+            <th>Operações</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (TrabalheConosco tb in Model)
+        {
+            <tr>
+                <td>@tb.Id</td>
+                <td>@tb.Nome</td>
+                <td>@tb.DataNascimento</td>
+                <td>@tb.Telefone</td>
+                <td>@tb.Email</td>
+                <td>@tb.Experiencia</td>
+                <td>
+                    <a href="/TrabalheConosco/Alterar?Id=@tb.Id">Alterar</a>
+
+                    <a href="/TrabalheConosco/Excluir?Id=@tb.Id">Excluir</a>
+                </td>
+             </tr>
+        }
+    </tbody>
+</table>
+
+<br>

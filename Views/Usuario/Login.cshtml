@@ -1,0 +1,63 @@
+@model Usuario
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+<style>
+  body {
+    background-color: #3D907D;
+  }
+
+  /*
+  .container {
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0px 0px 10px 0px;
+  }
+*/
+
+  .bg {
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 35px;
+    left: 40px;
+    border-radius: 50px;
+  }
+</style>
+
+<div class="container-fluid">
+  <div class="row justify-content-center mt-5">
+    <section class="col-12 col-sm-6 col-md-4">
+
+      <form method="POST" asp-controller="Usuario" asp-action="Login" class="form-container">
+        <div class="row">
+          <div class="col-3 mb-5">
+            <img src="~/imagens/LogoPorta.png" class="bg">
+          </div>
+          <div class="col-9 mt-4">
+            <h3 class="text-left mt-3">Login</h3>
+          </div>
+        </div>
+        
+        <div class="form-group mt-4">
+          <input asp-for="Login" type="text" class="form-control" required id="Login" placeholder="Login">
+        </div>
+
+        <div class="form-group">
+          <input asp-for="Senha" type="password" class="form-control" required id="senha" placeholder="Senha">
+        </div>
+        
+        <button class="btn btn-primary">Entrar</button>
+        <a href="/Usuario/Inserir">Não sou cadastrado</a>
+      </form>
+    </section>
+  </div>
+
+</div>
+
+<p>
+    @ViewBag.mensagem
+</p>

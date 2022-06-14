@@ -1,0 +1,36 @@
+@model List<Servico>
+
+@{
+    ViewData["Title"] = "Listagem de Serrviços do Porta Jóia";
+}
+
+<h2 class="text-center" id="h2-1">Lista de Serviços Cadastrados</h2>
+
+<table class="table table-striped">  
+    <thead>
+        <tr>
+            <th>CÓDIGO</th>
+            <th>SERVIÇO</th>
+            <th>PPREÇO</th>
+            <th>OPERAÇÕES</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (Servico s in Model)
+        {
+            <tr>
+                <td>@s.IdServico</td>
+                <td>@s.NomeServico</td>
+                <td>@s.PrecoServico</td>
+                <td>
+                    <a href="/Servico/Alterar?Id=@s.IdServico">Alterar</a>
+
+                    <a href="/Servico/Excluir?Id=@s.IdServico">Excluir</a>
+                </td>
+             </tr>
+        }
+    </tbody>
+</table>
+
+<br>

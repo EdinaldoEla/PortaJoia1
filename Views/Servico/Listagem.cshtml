@@ -1,0 +1,30 @@
+@model List<Servico>
+
+@{
+    ViewData["Title"] = "Listagem de Serrviços do Porta Jóia";
+}
+
+<h2 class="text-center" id="h2-1">Conheça nossos Serviços</h2>
+<!--<table class="table table-success table-striped-columns">-->
+<table class="table table-striped"> 
+    <thead>
+        <tr>
+            <th>CÓDIGO</th>
+            <th>SERVIÇO</th>
+            <th>PREÇO</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (Servico s in Model)
+        {
+            <tr>
+                <td>@s.IdServico</td>
+                <td>@s.NomeServico</td>
+                <td>@s.PrecoServico</td>
+             </tr>
+        }
+    </tbody>
+</table>
+
+<br>

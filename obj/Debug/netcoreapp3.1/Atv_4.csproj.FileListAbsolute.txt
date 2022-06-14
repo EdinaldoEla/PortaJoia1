@@ -1,0 +1,177 @@
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\Atv_4.exe
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\Atv_4.deps.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\Atv_4.runtimeconfig.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\Atv_4.runtimeconfig.dev.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\Atv_4.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\Atv_4.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\Atv_4.Views.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\Atv_4.Views.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.csprojAssemblyReference.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.AssemblyInfoInputs.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.AssemblyInfo.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.csproj.CoreCompileInputs.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.MvcApplicationPartsAssemblyInfo.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.RazorAssemblyInfo.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.RazorAssemblyInfo.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.TagHelpers.input.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.TagHelpers.output.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.RazorCoreGenerate.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.RazorTargetAssemblyInfo.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.RazorTargetAssemblyInfo.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.Views.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.csproj.CopyComplete
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\staticwebassets\Atv_4.StaticWebAssets.Manifest.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\staticwebassets\Atv_4.StaticWebAssets.xml
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Atv_4.genruntimeconfig.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Fotos.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Parceiros.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Videos.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Listagem.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_1\UC08_Projeto_Integrador_1\Atv_4\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Listagem.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\Atv_4.exe
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\Atv_4.deps.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\Atv_4.runtimeconfig.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\Atv_4.runtimeconfig.dev.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\Atv_4.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\Atv_4.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\Atv_4.Views.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\Atv_4.Views.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.csprojAssemblyReference.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.AssemblyInfoInputs.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.AssemblyInfo.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.csproj.CoreCompileInputs.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.MvcApplicationPartsAssemblyInfo.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.RazorAssemblyInfo.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.RazorAssemblyInfo.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.TagHelpers.input.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.TagHelpers.output.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.RazorCoreGenerate.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Fotos.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Parceiros.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Videos.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Listagem.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Listagem.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.RazorTargetAssemblyInfo.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.RazorTargetAssemblyInfo.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.Views.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.csproj.CopyComplete
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\staticwebassets\Atv_4.StaticWebAssets.Manifest.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\staticwebassets\Atv_4.StaticWebAssets.xml
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa5\obj\Debug\netcoreapp3.1\Atv_4.genruntimeconfig.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\Atv_4.exe
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\Atv_4.deps.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\Atv_4.runtimeconfig.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\Atv_4.runtimeconfig.dev.json
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\Atv_4.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\Atv_4.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\Atv_4.Views.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\Atv_4.Views.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.csprojAssemblyReference.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.AssemblyInfoInputs.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.AssemblyInfo.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.csproj.CoreCompileInputs.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.MvcApplicationPartsAssemblyInfo.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.RazorAssemblyInfo.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.RazorAssemblyInfo.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.TagHelpers.input.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.TagHelpers.output.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.RazorCoreGenerate.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Fotos.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Parceiros.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Videos.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Listagem.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Listagem.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\TrabalheConosco\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Alterar.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Inserir.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.RazorTargetAssemblyInfo.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.RazorTargetAssemblyInfo.cs
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.Views.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.csproj.CopyComplete
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\staticwebassets\Atv_4.StaticWebAssets.Manifest.cache
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\staticwebassets\Atv_4.StaticWebAssets.xml
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.dll
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.pdb
+F:\Edinaldo\CursoInformática_Senac\Módulo_2\UC08 - Projeto Integrador II\PI-II-Etapa6\obj\Debug\netcoreapp3.1\Atv_4.genruntimeconfig.cache
