@@ -9,8 +9,8 @@
     <title>@ViewData["Title"]PI-II - Etapa 5</title>
     <link rel="icon" href="~/Imagens/LogoPorta.png" type="image/x.icon">
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="stylesheet" href="~/css/estilo.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/estilo.css " asp-append-version="true" />
 
 </head>
 
@@ -100,10 +100,26 @@
         </main>
     </div>
 
+    <!--
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; Desenvolvido por Edinaldo Lira de Almeida
         </div>
+    </footer>
+    -->
+    <footer class="border-top footer text-muted border-bottom">
+     <!--<footer class="border-top footer text-muted bg-dark border-bottom"></footer>-->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9 foot-col1">
+                    <p>AVISO - Site desenvolvido para fins didáticos. Conteúdo informado meramente ilustrativo.</p>
+                </div>
+                <div class="col-md-3 foot-col2">
+                    &copy;Desenvolvido por Edinaldo Almeida
+                </div>
+            </div>
+        </div>
+
     </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
